@@ -1,0 +1,7 @@
+There are 3 ways of testing:
+
+- test with mocha
+- test with jest
+- the code on vanilla js
+
+All the implementations do the same logic.

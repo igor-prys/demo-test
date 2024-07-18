@@ -1,0 +1,10 @@
+{
+  "name": "test-with-mocha",
+  "description": "A demo project",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "10.6.0"
+  }
+}
