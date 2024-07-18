@@ -1,7 +1,7 @@
-There are 3 ways of testing:
+There are 3 ways of testing is represented:
 
-- test with mocha
-- test with jest
-- the code on vanilla js
+- test with mocha (mocha-testing folder)
+- test with jest (jest-testing folder)
+- the code on vanilla js (vanilla-js folder)
 
 All the implementations do the same logic.
