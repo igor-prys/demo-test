@@ -1,6 +1,4 @@
 # jest
 
-jest:
-
 > npm i
 > npm test
